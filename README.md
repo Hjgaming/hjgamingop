@@ -3,25 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hjgaming&label=Profile%20views&color=0e75b6&style=flat" alt="Hjgaming" /> </p>
 
-- 🔭 I’m currently working on [automodbot](https://automodbot.com)
+- 🔭 I’m currently working on [arbotix bot](https://discord.gg/7wmb5x7qp4)
 
 - 🌱 I’m currently learning **Javascript & html**
 
-- 👯 I’m looking to collaborate on [Automod-bot](https://github.com/khanmanan/automod-bot)
+- 👯 I’m looking to collaborate on [discord](https://discord.gg/7wmb5x7qp4)
 
-- 👨‍💻 All of my projects are available at [https://cwkhan.xyz](https://cwkhan.xyz)
+- 👨‍💻 All of my projects are available at [https://discord.gg/7wmb5x7qp4](https://discord.gg/7wmb5x7qp4)
 
-- 📫 How to reach me **https://discord.gg/7P6WjqRcft**
+- 📫 How to reach me **https://discord.gg/7wmb5x7qp4**
 
 - ⚡ Fun fact **Im coding on Android 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/cwkhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cwkhan" height="30" width="40" /></a>
-<a href="https://twitter.com/cwkhan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cwkhan01" height="30" width="40" /></a>
-<a href="https://instagram.com/codecwkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codecwkhan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cwkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cwkhan" height="30" width="40" /></a>
-<a href="https://discord.gg/cwkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cwkhan" height="30" width="40" /></a>
+<a href="https://discord.gg/7wmb5x7qp4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cwkhan" height="30" width="40" /></a>
+<a href="https://discord.gg/7wmb5x7qp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hjgaming" height="30" width="40" /></a>
+<a href="https://discord.gg/7wmb5x7qp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hjgaming" height="30" width="40" /></a>
+<a href="https://discord.gg/7wmb5x7qp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Hjgaming" height="30" width="40" /></a>
+<a href="https://discord.gg/7wmb5x7qp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hjgaming" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,4 +35,4 @@
 
 # Activity
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/682981714523586606)](https://discord.gg/cwkhan)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/589154804601716838)](https://discord.gg/7wmb5x7qp4)
